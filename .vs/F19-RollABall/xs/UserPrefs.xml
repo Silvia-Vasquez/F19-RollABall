@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{BF9B6188-FF01-0AB6-2C06-D6F2E8F67F44}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotator.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerController.cs" Line="19" Column="37" />
-      <File FileName="Assets/Scripts/CameraController.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="7" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="F19-RollABall" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="CameraController.cs" selected="True" />
+                <Node name="Rotator.cs" selected="True" />
               </Node>
             </Node>
           </Node>
