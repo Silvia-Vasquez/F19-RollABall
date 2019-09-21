@@ -9,9 +9,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="F19-RollABall" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Rotator.cs" selected="True" />
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Rotator.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
